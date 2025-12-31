@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @AlixzFX
-- 👀 I’m generally interested in automation program, scripting (in After Effects) and Discord bot. I also like making some little games with Python.
-- 🌱 I’m currently learning HTML, CSS, Javascript and Python.
-- 📫 How to reach me :
--   Discord : Alixz#0032
--   Youtube : Alixz
--   Instagram : @alixz.ns
+I do editing and programming.
 
-<!---
-AlixzFX/AlixzFX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Software I created :
+- [uwu2x](https://uwu2x.alixz.ovh/), an After Effects extension for video upscaling and interpolation (6000 monthly active users) ;
+
+Youtube channels :
+- [Alixz](https://www.youtube.com/@Alixz), where I post anime edits (14 000 subscribers)
+- [Aligz](https://www.youtube.com/@alixz.), where I make tutorials about my software (2 000 subscribers)
