@@ -1,6 +1,6 @@
 I do editing and programming.
 
-Software I created :
+Things I created :
 - [uwu2x](https://uwu2x.alixz.ovh/), an After Effects extension for video upscaling and interpolation (6000 monthly active users) ;
 
 Youtube channels :
